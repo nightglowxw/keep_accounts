@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207853555685",
+    "appName": "keep_accounts",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "388421841221933357",
+    "projectName": "记账",
+    "siteId": "CN"
+  },
+  "teamId": "30086000723262342"
+}
